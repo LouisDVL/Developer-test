@@ -1,0 +1,30 @@
+﻿nav 
+{
+    background-color: #F6F6F7;
+}
+
+.requiredStar {
+    color: #C90000;
+}
+
+p {
+    color: #888888;
+}
+
+.btn-outline-dark 
+{
+    border: 2px solid black !important;
+    font-weight: bold;
+    color: black;
+}
+
+#size
+{
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    padding-left: 10px;
+    padding-right: 10px;
+}
